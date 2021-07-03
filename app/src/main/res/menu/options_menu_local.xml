@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Open in browser"
+        android:id="@+id/openInBrower"
+        />
+    <item
+        android:title="Share"
+        android:id="@+id/shareNews"
+        />
+    <item
+        android:title="Remove from local"
+        android:id="@+id/saveLocal"
+        />
+</menu>

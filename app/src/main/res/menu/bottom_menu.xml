@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/discoverMenu"
+        android:icon="@drawable/ic_discover"
+        android:title="@string/discover"/>
+    <item
+        android:id="@+id/categoriesMenu"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/categories"
+        />
+    <item
+        android:id="@+id/searchMenu"
+        android:title="@string/search"
+        android:icon="@drawable/ic_loupe"
+        />
+    <item
+        android:id="@+id/savedMenu"
+        android:title="@string/saved"
+        android:icon="@drawable/ic_ribbon"
+        />
+    <item
+        android:title="Settings"
+        android:id="@+id/settingMenu"
+        android:icon="@drawable/ic_settings"
+        />
+</menu>
