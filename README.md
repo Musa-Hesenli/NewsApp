@@ -1,6 +1,6 @@
 NewsApp
 <br>
-<h1>Packages and specifications</h1>
+<h1>Packages and specifications. To work with you can replace apiKey with your own from newsapi.org, or built-in apiKey</h1>
 <ol>
 <li>Room database for saving news</li>
 <li>Retrofit to fetch news from the internet</li>
